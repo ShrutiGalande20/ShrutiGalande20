@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shuti Galande</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Shruti Galande</h1>
+<h3 align="center">A Passionate fullstack Developer from pune, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutigalande20&label=Profile%20views&color=0e75b6&style=flat" alt="shrutigalande20" /> </p>
 
