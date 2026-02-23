@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently **learning Selenium & Java for automation testing**
 - 💼 Completed **Manual Testing Projects** (test cases, bug reports, SDLC notes)
-- 📫 How to reach me: **shrutigalande2@gmail.com**
+- 📫 How to reach me: **shrutigalande13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
