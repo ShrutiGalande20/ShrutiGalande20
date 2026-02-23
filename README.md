@@ -21,6 +21,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="postman" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-5.svg" alt="jira" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello" width="40" height="40"/>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutigalande20&show_icons=true&locale=en" alt="shrutigalande20" /></p>
